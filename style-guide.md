@@ -12,12 +12,14 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary Colors
+
 - **White**: hsl(0, 0%, 100%)
 - **Brown 800**: hsl(14, 45%, 36%)
 - **Rose 800**: hsl(332, 51%, 32%)
 - **Rose 50**: hsl(330, 100%, 98%)
 
 ### Neutral Colors
+
 - **Stone 100**: hsl(30, 54%, 90%)
 - **Stone 150**: hsl(30, 18%, 87%)
 - **Stone 600**: hsl(30, 10%, 34%)
