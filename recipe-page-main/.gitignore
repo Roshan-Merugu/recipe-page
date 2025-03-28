@@ -21,6 +21,7 @@ npm-debug.log*
 # Ignore system files
 Thumbs.db
 desktop.ini
+AppData/
 
 # Ignore IDE-specific files
 .vscode/
