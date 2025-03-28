@@ -11,17 +11,17 @@ The designs were created to the following widths:
 
 ## Colors
 
-- White: hsl(0, 0%, 100%)
+### Primary Colors
+- **White**: hsl(0, 0%, 100%)
+- **Brown 800**: hsl(14, 45%, 36%)
+- **Rose 800**: hsl(332, 51%, 32%)
+- **Rose 50**: hsl(330, 100%, 98%)
 
-- Stone 100: hsl(30, 54%, 90%)
-- Stone 150: hsl(30, 18%, 87%)
-- Stone 600: hsl(30, 10%, 34%)
-- Stone 900: hsl(24, 5%, 18%)
-
-- Brown 800: hsl(14, 45%, 36%)
-
-- Rose 800: hsl(332, 51%, 32%)
-- Rose 50: hsl(330, 100%, 98%)
+### Neutral Colors
+- **Stone 100**: hsl(30, 54%, 90%)
+- **Stone 150**: hsl(30, 18%, 87%)
+- **Stone 600**: hsl(30, 10%, 34%)
+- **Stone 900**: hsl(24, 5%, 18%)
 
 ## Typography
 
@@ -31,10 +31,24 @@ The designs were created to the following widths:
 
 ### Fonts
 
-- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
-- Weights: 400
+- **Primary Font**: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
+  - Weights: 400
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 600, 700
+- **Secondary Font**: [Outfit](https://fonts.google.com/specimen/Outfit)
+  - Weights: 400, 600, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+## Spacing
+
+- **Padding**: 10px, 15px, 20px
+- **Margin**: 10px, 20px
+
+## Icons and Images
+
+- **Favicon**: `favicon-32x32.png`
+- **Hero Image**: `image-omelette.jpeg`
+
+## Notes
+
+- Ensure all text is legible and meets accessibility standards.
+- Use semantic HTML5 elements for better structure and accessibility.
+- Test responsiveness across a range of devices and screen sizes.
